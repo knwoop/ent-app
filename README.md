@@ -1,6 +1,6 @@
 # ent-app
 
-```go
+```shell
 go run main.go
 
 ```
